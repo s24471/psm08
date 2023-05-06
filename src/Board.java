@@ -1,7 +1,3 @@
-import Tile.Tile;
-
-import java.util.ArrayList;
-
 public class Board {
     int szer;
     int dl;
